@@ -1,4 +1,2 @@
-python-bootcamp
-===============
+This is my final project for stat154
 
-Bootcamp docs and lectures
